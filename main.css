@@ -1,4 +1,4 @@
-/* Estilos adicionales para la extensión */
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #f5f5f5;
@@ -48,17 +48,17 @@ body {
   
   .password-wrap {
     position: relative;
-    display: inline-block; /* Permitir que el input y el ícono estén en línea */
+    display: inline-block; 
   }
   
   #password {
-    padding-right: 30px; /* Dar espacio a la derecha para el ícono */
+    padding-right: 30px; 
   }
   
   #copy {
     position: absolute;
-    right: 8px; /* Ajustar la posición a la derecha del input */
-    top: 40%; /* Centrar verticalmente */
+    right: 8px;
+    top: 40%; 
     transform: translateY(-50%);
     font-size: 20px;
     color: #666;
